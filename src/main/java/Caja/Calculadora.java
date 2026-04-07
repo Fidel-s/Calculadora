@@ -412,6 +412,8 @@ public class Calculadora extends javax.swing.JFrame {
     
     /* Hice un comentario aqui
     
+    /* Hice otro comentario para otra rama
+    
     
     /**
      * @param args the command line arguments
